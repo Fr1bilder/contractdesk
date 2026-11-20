@@ -1,0 +1,11 @@
+target/
+dist/
+*.db
+*.db-*
+*.db.lock
+*.sqlite
+*.sqlite-*
+.idea/
+*.iml
+.vscode/
+screenshots/local-*
